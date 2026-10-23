@@ -31,8 +31,8 @@ preprocessing, inference and plotting scripts (training code is not included).
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/RingModel.git
-cd RingModel
+git clone https://github.com/xianzhushao/Hypering.git
+cd Hypering
 
 # Create a virtual environment (recommended)
 python3 -m venv venv
